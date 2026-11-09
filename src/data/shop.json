@@ -1,0 +1,22 @@
+{
+  "name": "Beauty World",
+  "phone": "+49 911 91941478",
+  "email": "beautyandmorestudio@gmail.com",
+  "address": ["Äußere Bayreuther Str. 80 (Obergeschoss)", "90491 Nürnberg"],
+  "openingHours": [
+    "10:00 – 20:00",
+    "10:00 – 20:00",
+    "10:00 – 20:00",
+    "10:00 – 20:00",
+    "10:00 – 20:00",
+    "10:00 – 20:00",
+    null
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "https://www.facebook.com/p/Beauty-World-Mercado-N%C3%BCrnberg-100063473085287/",
+    "tiktok": ""
+  },
+  "mapUrl": "https://www.google.de/maps/search/%20Beauty%20World%20-%20N%C3%BCrnberg%20%C3%84u%C3%9Fere%20Bayreuther%20Str.%2080%20Obergeschoss,%2090491%20N%C3%BCrnberg,%20Germany",
+  "bookingUrl": ""
+}
